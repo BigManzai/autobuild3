@@ -16,7 +16,6 @@ For more information, see [Autobuild's wiki page][wiki].
 [wiki]: https://wiki.secondlife.com/wiki/Autobuild
 
 
-
 **Autobuild** ist ein Framework zum Erstellen von Paketen und zum Verwalten der
 Abhängigkeiten eines Pakets von anderen Paketen. Es bietet eine gemeinsame
 Schnittstelle zum Konfigurieren und Erstellen eines beliebigen Pakets, aber es ist kein
@@ -31,37 +30,3 @@ aber sie sind ähnlich genug, um Verwirrung zu stiften.*
 Weitere Informationen finden Sie unter [Autobuild's wiki page][wiki].
 
 [wiki]: https://wiki.secondlife.com/wiki/Autobuild
-
-# Autobuild
-
-**Autobuild** ist ein Framework zum Erstellen von Paketen und zum Verwalten der
-Abhängigkeiten eines Pakets von anderen Paketen. Es bietet eine gemeinsame
-Schnittstelle zum Konfigurieren und Erstellen eines beliebigen Pakets, aber es ist keine
-Build-System wie make oder cmake. Sie benötigen weiterhin plattformspezifische
-make-, cmake- oder project-Dateien zum Konfigurieren und Erstellen Ihrer
-Bücherei. Autobuild erlaubt Ihnen jedoch, diese Befehle aufzurufen und
-Verpacken Sie das Produkt mit einer gemeinsamen Schnittstelle.
-
-*Wichtig: Linden Lab Autobuild ist nicht dasselbe wie GNU oder davon abgeleitet
-Autobuild, aber sie sind ähnlich genug, um Verwirrung zu stiften.*
-
-Weitere Informationen finden Sie unter [Wiki-Seite von Autobuild][Wiki].
-
-[Wiki]: https://wiki.secondlife.com/wiki/Autobuild
-
-
-
-**Autobuild** ist ein Framework zum Erstellen von Paketen und zum Verwalten der
-Abhängigkeiten eines Pakets von anderen Paketen. Es bietet eine gemeinsame
-Schnittstelle zum Konfigurieren und Erstellen eines beliebigen Pakets, aber es ist kein
-Build System wie make oder cmake. Sie benötigen weiterhin plattformspezifische
-make, cmake oder project Dateien zum Konfigurieren und Erstellen Ihrer
-Biblioteken. Autobuild erlaubt Ihnen jedoch, diese Befehle aufrufen und
-Verpacken Sie das Produkt mit einer gemeinsamen Schnittstelle.
-
-*Wichtig: Linden Lab Autobuild ist nicht dasselbe wie GNU Autobuild oder davon abgeleitet,
-aber sie sind ähnlich genug, um Verwirrung zu stiften.*
-
-Weitere Informationen finden Sie unter [Wiki-Seite von Autobuild] [Wiki].
-
-[Wiki]: https://wiki.secondlife.com/wiki/Autobuild
